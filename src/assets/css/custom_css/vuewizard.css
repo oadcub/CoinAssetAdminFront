@@ -1,0 +1,22 @@
+.wizard-btn,.wizard-icon-container,.wizard-progress-bar{
+    background-color:#428bca !important;
+}
+.wizard-btn,.wizard-icon-circle.md.checked{
+    border-color:#428bca !important;
+}
+.stepTitle.active{
+    color:#428bca !important;
+}
+.wizard-title{
+text-align: left !important;
+}
+.category{
+    display: none;
+}
+.wizard-header{
+    border-bottom: 1px solid #dcdcdc;
+    background-color: #F5F5F5;
+}
+.wizard-navigation{
+    padding-top: 2rem;
+}
